@@ -29,13 +29,13 @@ Accurately predicting car prices is crucial for buyers, sellers, and businesses 
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/KyawKoKoSan/car_price_prediction.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd carprice
+   cd car_price_prediction
    ```
 
 3. Open the notebook:
